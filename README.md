@@ -31,7 +31,7 @@ LegalEase.ai is an AI-powered legal documentation assistant designed to simplify
 **3) STORING PREVIOUSLY UPLOADED DOCUMENTS**
 **4) REAL TIME CHAT BOT - for suggestions and advice**
 **5) USER PROFILE DASHBOARD**
-**5) AUTHENTICATION USING JWT TOKENS**
+**5) HIGHLY SECURED AUTHENTICATION USING JWT TOKENS**
 
 ## Frontend (Next.js, TypeScript)
 
