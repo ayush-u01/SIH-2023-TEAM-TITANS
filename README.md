@@ -9,7 +9,7 @@
 | -------- | ------- |
 | abc@gmail.com  | Admin@123    |
 
-## SIH Final Problem Statement (#1285)
+## SIH - Problem Statement (#1285)
 
 *AI Powered Legal Documentation Assistant*
 
@@ -24,6 +24,14 @@ LegalEase.ai is an AI-powered legal documentation assistant designed to simplify
 ![WhatsApp Image 2023-09-20 at 01 15 52](https://github.com/SIH-NSUT-2023/SIH-TEAM-TITANS/assets/83404023/0476764c-61e2-4c84-a62b-9cddb66de608)
 
 
+## KEY FEATURES
+
+**1) SIMPLIFY LARGE AND COMPLEX LEGAL DOCUMENTS**
+**2) CUSTOMISED SEARCH QUERIES**
+**3) STORING PREVIOUSLY UPLOADED DOCUMENTS**
+**4) REAL TIME CHAT BOT - for suggestions and advice**
+**5) USER PROFILE DASHBOARD**
+**5) AUTHENTICATION USING JWT TOKENS**
 
 ## Frontend (Next.js, TypeScript)
 
@@ -50,7 +58,7 @@ The frontend offers the following key features:
 
 - *AWS Integration*: LegalEase.ai leverages AWS services for cloud deployment, ensuring scalability and reliability.
 
-## Backend (Node.js, Prisma, ExpressJS)
+## Backend (Node.js, Prisma, ExpressJS) , DATABASE- (PostgreSQL)
 
 The backend of LegalEase.ai utilizes Node.js with Prisma as the ORM and ExpressJS for server development. The backend is seamlessly connected to a PostgreSQL database. To set up the backend on your local machine:
 
