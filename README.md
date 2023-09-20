@@ -15,7 +15,7 @@
 *AI Powered Legal Documentation Assistant*
 
 *PPT* - [SIH.pptx](https://github.com/SIH-NSUT-2023/SIH-TEAM-TITANS/blob/main/SIH.pptx)  
-**Demo Video** - [https://share.vidyard.com/watch/UGsMz1TqkLhJoqQvDiGfjG](https://share.vidyard.com/watch/UGsMz1TqkLhJoqQvDiGfjG) <br />
+**Demo Video** - [https://drive.google.com/file/d/1Jbr91dvCmaiziQOIUiIP0TUM-3129Ce2/view?usp=sharing](https://drive.google.com/file/d/1Jbr91dvCmaiziQOIUiIP0TUM-3129Ce2/view?usp=sharing) <br />
 
 # Inroduction
 
