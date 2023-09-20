@@ -2,6 +2,7 @@
 # SIH-TEAM-TITANS
 
 *TEAM NAME:* Team Titans  
+*TEAM LEADER:* Ayush Upadhyay  
 *PROJECT NAME:* LegalEase.ai  
 *Website:* [https://doc-reviewer.vercel.app](https://doc-reviewer.vercel.app/signin)  
 
